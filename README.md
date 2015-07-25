@@ -1,2 +1,2 @@
 # Resume-CV
-Curriculum Vitae/Resume
+Contains educational details, work experience, projects completed and achievements.
